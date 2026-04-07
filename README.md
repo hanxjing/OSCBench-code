@@ -62,7 +62,7 @@ Generate videos from OSCBench prompts using your target text-to-video model, the
 Use prompts from `prompts.txt` or one of the split files under `prompt_splits/`. 
 
 
-#### Sample Frames (`extract_frames.py`)
+#### Sample Frames
 
 This script samples `20` evenly spaced frames from each video and saves them into one subfolder per video.
 
