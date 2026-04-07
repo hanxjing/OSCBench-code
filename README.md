@@ -93,7 +93,7 @@ python mllm_eval.py
 ```
 
 
-### 3. Results Analysis (`result_analyze.py`)
+### 3. Results Analysis
 
 This script analyzes the correlation between MLLM-based evaluation and human evaluation, following the benchmark's automatic-evaluation validation setting described on the project page and in the paper.
 
